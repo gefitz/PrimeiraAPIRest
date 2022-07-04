@@ -23,7 +23,7 @@ namespace Dev.SistemaRH.API.Controllers
 
         [HttpPost]
         
-        public  ActionResult<CandidatoModel> PostCandidato(Candidato candidato)
+        public  ActionResult<Candidato> PostCandidato(Candidato candidato)
         {
             _commando.InsertTable(candidato,"Candidato");
             return candidato;
