@@ -1,0 +1,12 @@
+C:\Users\Geovane\source\SistemaRHApi\Dev.SistemaRH.Data\obj\Debug\net5.0\Dev.SistemaRH.Data.csproj.AssemblyReference.cache
+C:\Users\Geovane\source\SistemaRHApi\Dev.SistemaRH.Data\obj\Debug\net5.0\Dev.SistemaRH.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geovane\source\SistemaRHApi\Dev.SistemaRH.Data\obj\Debug\net5.0\Dev.SistemaRH.Data.AssemblyInfoInputs.cache
+C:\Users\Geovane\source\SistemaRHApi\Dev.SistemaRH.Data\obj\Debug\net5.0\Dev.SistemaRH.Data.AssemblyInfo.cs
+C:\Users\Geovane\source\SistemaRHApi\Dev.SistemaRH.Data\obj\Debug\net5.0\Dev.SistemaRH.Data.csproj.CoreCompileInputs.cache
+C:\Users\Geovane\source\SistemaRHApi\Dev.SistemaRH.Data\bin\Debug\net5.0\Dev.SistemaRH.Data.deps.json
+C:\Users\Geovane\source\SistemaRHApi\Dev.SistemaRH.Data\bin\Debug\net5.0\Dev.SistemaRH.Data.dll
+C:\Users\Geovane\source\SistemaRHApi\Dev.SistemaRH.Data\bin\Debug\net5.0\Dev.SistemaRH.Data.pdb
+C:\Users\Geovane\source\SistemaRHApi\Dev.SistemaRH.Data\obj\Debug\net5.0\Dev.SistemaRH.Data.dll
+C:\Users\Geovane\source\SistemaRHApi\Dev.SistemaRH.Data\obj\Debug\net5.0\refint\Dev.SistemaRH.Data.dll
+C:\Users\Geovane\source\SistemaRHApi\Dev.SistemaRH.Data\obj\Debug\net5.0\Dev.SistemaRH.Data.pdb
+C:\Users\Geovane\source\SistemaRHApi\Dev.SistemaRH.Data\obj\Debug\net5.0\ref\Dev.SistemaRH.Data.dll
