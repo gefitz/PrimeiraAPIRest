@@ -23,11 +23,8 @@ namespace Dev.SistemaRH.API.Controllers
 
         [HttpPost]
         
-        public  ActionResult<CandidatoModel> PostCandidato(CandidatoModel candidato)
+        public  ActionResult<CandidatoModel> PostCandidato(Candidato candidato)
         {
-            ConvertTo convert = new ConvertTo();
-            Candidato can = convert.Model(candidato);
-
             _commando.InsertTable(can,"Candidato");
             return candidato;
         }
