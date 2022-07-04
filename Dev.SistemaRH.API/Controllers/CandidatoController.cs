@@ -25,7 +25,7 @@ namespace Dev.SistemaRH.API.Controllers
         
         public  ActionResult<CandidatoModel> PostCandidato(Candidato candidato)
         {
-            _commando.InsertTable(can,"Candidato");
+            _commando.InsertTable(candidato,"Candidato");
             return candidato;
         }
         [HttpGet]
